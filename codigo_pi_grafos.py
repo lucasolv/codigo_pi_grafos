@@ -2,7 +2,7 @@
 
 #rodar "pip install requests" no terminal
 
- class Vertice:
+class Vertice:
 
   def __init__(self, value):
     self.value = value
