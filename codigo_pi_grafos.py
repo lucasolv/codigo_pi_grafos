@@ -1,3 +1,4 @@
+#https://colab.research.google.com/gist/chrisgod336/ee53106aa8c9a22cc2403f6e4b5196b6/grafospi.ipynb#scrollTo=R9SpFXEiLHGq
 
  class Vertice:
 
