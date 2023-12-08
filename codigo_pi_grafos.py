@@ -1,5 +1,7 @@
 #https://colab.research.google.com/gist/chrisgod336/ee53106aa8c9a22cc2403f6e4b5196b6/grafospi.ipynb#scrollTo=R9SpFXEiLHGq
 
+#rodar "pip install requests" no terminal
+
  class Vertice:
 
   def __init__(self, value):
@@ -81,8 +83,6 @@ class Graph:
 
 
 #conexao com a API:
-
-!pip install requests
 
 #visualizando os labirintos disponiveis
 
